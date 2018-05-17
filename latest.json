@@ -1,20 +1,20 @@
 {
   "win32-x64-prod": {
     "readme": "New Version Avaliable",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer-0.2.1.Setup.exe#",
-    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer-0.2.1.Setup.exe#",
+    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1",
+    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer-0.2.1.Setup.exe",
     "version": "0.2.1"
   },
   "darwin-x64-prod": {
     "readme": "New Version Avaliable",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer.0.2.1.release.json#",
-    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer.0.2.1.dmg#",
+    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer.0.2.1.release.json",
+    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer.0.2.1.dmg",
     "version": "0.2.1"
   },
   "linux-x64-prod": {
     "readme": "New Version Avaliable",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer_0.2.1_amd64.deb#",
-    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer_0.2.1_amd64.deb#",
+    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer_0.2.1_amd64.deb",
+    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer_0.2.1_amd64.deb",
     "version": "0.2.1"
   }
 }
