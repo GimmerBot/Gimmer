@@ -1,18 +1,18 @@
 {
   "win32-x64-prod": {
-    "readme": "New Version Avaliable",
+    "readme": "gimmer.0.2.11",
     "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.11",
     "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.11/gimmer-0.2.11.Setup.exe",
     "version": "0.2.11"
   },
   "darwin-x64-prod": {
-    "readme": "New Version Avaliable",
+    "readme": "gimmer.0.2.11",
     "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.11/gimmer.0.2.11.release.json",
     "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.11/gimmer.0.2.11.dmg",
     "version": "0.2.11"
   },
   "linux-x64-prod": {
-    "readme": "New Version Avaliable",
+    "readme": "gimmer.0.2.11",
     "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.11/gimmer_0.2.11_amd64.deb",
     "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.11/gimmer_0.2.11_amd64.deb",
     "version": "0.2.11"
