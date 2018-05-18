@@ -1,20 +1,19 @@
 {
   "win32-x64-prod": {
-    "readme": "New Version Avaliable",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1",
-    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer-0.2.1.Setup.exe",
-    "version": "0.2.1"
+    "readme": "Second release",
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe",
+    "version": "0.0.2"
   },
   "darwin-x64-prod": {
-    "readme": "New Version Avaliable",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer.0.2.1.release.json",
-    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer.0.2.1.dmg",
-    "version": "0.2.1"
+    "readme": "Second Release",
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/darwin-x64-prod-v0.0.2/release.json",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/darwin-x64-prod-v0.0.2/Simple.Updater.Example-0.0.2.dmg",
+    "version": "0.0.2"
   },
   "linux-x64-prod": {
-    "readme": "New Version Avaliable",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer_0.2.1_amd64.deb",
-    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer_0.2.1_amd64.deb",
-    "version": "0.2.1"
+    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
+    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
+    "version": "0.0.2"
   }
 }
