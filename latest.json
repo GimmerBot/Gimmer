@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
     "readme": "New Version Avaliable",
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2",
-    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-x64-prod-v0.0.2/Simple.Updater.Example.Setup.0.0.2.exe",
+    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1",
+    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.1/gimmer-0.2.1.Setup.exe",
     "version": "0.2.1"
   },
   "darwin-x64-prod": {
