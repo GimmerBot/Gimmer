@@ -7,7 +7,7 @@
   },
   "darwin-x64-prod": {
     "readme": "gimmer.0.2.13",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.13/gimmer.0.2.13.release.json",
+    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.13/release.json",
     "install": "https://github.com/GimmerBot/Gimmer/releases/download/v0.2.13/gimmer.0.2.13.dmg",
     "version": "0.2.13"
   },
