@@ -32,13 +32,13 @@ Gimmer is an algorithmic trading platform for Bitcoin and other cryptocurrencies
 - Backtest and simulation mode
 - Descentralized Marketplace
 - Publish completely decentralized strategies
-- PCreate different types of plans
-- PDo backtests before renting a strategy
-- PRent different strategies from different categories
-- PSearch using several different types of filters
-- PAccess rental strategies from anywhere at any time
-- PVote for the best strategies
-- PAccess list with all platform traders
+- Create different types of plans for rent
+- Do backtests before renting a strategy
+- Rent different strategies from different categories
+- Marketplace search using several different types of filters
+- Access rental strategies from anywhere at any time
+- Vote for the best strategies
+- Access list with all platform traders
 - See trader-specific strategies sorted by popularity
 - You can now execute backtest directly from the strategy screen.
 - Start or stop robot execution directly from strategy list
