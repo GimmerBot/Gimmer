@@ -19,12 +19,34 @@ Gimmer is an algorithmic trading platform for Bitcoin and other cryptocurrencies
 
 ## FEATURES
 
+- Exchange Trader Bot
+- Margin Trader Bot
 - Binance Futures 125x
+- Scalper
+- Code Editor
+- Mirror Arbitrage
+- Triangular Arbitrage
+- Lending
+- Portfolio
 - Websockets to trade in realtime
 - Backtest and simulation mode
 - Descentralized Marketplace
-- Mirror Arbitrage
-- Triangular Arbitrage
+- Publish completely decentralized strategies
+- PCreate different types of plans
+- PDo backtests before renting a strategy
+- PRent different strategies from different categories
+- PSearch using several different types of filters
+- PAccess rental strategies from anywhere at any time
+- PVote for the best strategies
+- PAccess list with all platform traders
+- See trader-specific strategies sorted by popularity
+- You can now execute backtest directly from the strategy screen.
+- Start or stop robot execution directly from strategy list
+- Top frame removal leaving the app with wider view
+- Processor and memory usage displayed in backtest and activity log
+- Improved backtest to get closer to the real market
+- Improved design and background addition on all screens
+- System memory usage optimization
 
 # Decentralized dApp
 ![Webserver_UI](images/2020-03-12%20(5).png "Decentralized dApp")
