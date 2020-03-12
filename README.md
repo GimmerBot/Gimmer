@@ -1,8 +1,8 @@
-## GIMMER DAPP
+## GIMMER DAPP [![GitHub version](https://badge.fury.io/gh/Gimmerbot%2FGimmer.svg)](https://badge.fury.io/gh/Gimmerbot%2FGimmer)
+Gimmer is a tool for trade and algorithmic automation for Bitcoin and other cryptocurrencies.
 
-## Current Version [![GitHub version](https://badge.fury.io/gh/Gimmerbot%2FGimmer.svg)](https://badge.fury.io/gh/Gimmerbot%2FGimmer)
-
-Gimmer is an algorithmic trading platform for Bitcoin and other cryptocurrencies.
+## Current Version 
+https://github.com/GimmerBot/CodeEditor-Samples
 
 ## EXCHANGES
 - [Binance](https://www.binance.com/en/register?ref=15629923)
