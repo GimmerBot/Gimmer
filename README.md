@@ -7,3 +7,43 @@ Gimmer is an algorithmic trading platform for Bitcoin and other cryptocurrencies
 ## OPENING ISSUES
 
 Fill out the template shown when creating a new issue.
+
+# Decentralized dApp
+![Webserver_UI](images/2020-03-12%20(5).png "Decentralized dApp")
+
+# Strategy List
+![Webserver UI](images/2020-03-12%20(8).png "Strategy List")
+
+# Infinte Backtests
+![Webserver UI](images/2020-03-12%20(16).png "Infinte Backtests")
+
+# Strategy Builder
+![Webserver UI](images/2020-03-12%20(12).png "Strategy Builder")
+
+# Code Editor
+![Webserver UI](images/2020-03-12%20(2).png "Gimmer Code Editor for trade")
+
+# Trader List
+![Webserver UI](images/2020-03-12%20(13).png "Trader List")
+
+# Marketplace
+![Webserver UI](images/2020-03-12%20(14).png "Marketplace")
+
+# Marketplace Backtest
+![Webserver UI](images/2020-03-12%20(24).png "Marketplace Backtest")
+
+# Lending
+![Webserver UI](images/2020-03-12%20(25).png "Lending")
+
+# Portfolio
+![Webserver UI](images/2020-03-12%20(21).png "Portfolio")
+
+# Triangular Arbitrage
+![Webserver UI](images/2020-03-12%20(17).png "Portfolio")
+
+# Docs
+![Webserver UI](images/2020-03-12%20(15).png "Documentation")
+
+
+
+
