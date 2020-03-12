@@ -9,13 +9,9 @@ https://github.com/GimmerBot/CodeEditor-Samples
 - Poloniex
 - Bitfinex
 - Huobi
-- Mercado Bitcoin
-- Kraken
-- Foxbit
 - HitBTC
-- CoinEx
-- Braziliex
-- BTCAlpha
+- Kraken
+- Others...
 
 ## FEATURES
 
