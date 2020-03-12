@@ -1,7 +1,7 @@
 ## GIMMER DAPP [![GitHub version](https://badge.fury.io/gh/Gimmerbot%2FGimmer.svg)](https://badge.fury.io/gh/Gimmerbot%2FGimmer)
 Gimmer is a tool for trade and algorithmic automation for Bitcoin and other cryptocurrencies.
 
-## Current Version 
+## Open Sources for Code Editor 
 https://github.com/GimmerBot/CodeEditor-Samples
 
 ## EXCHANGES
