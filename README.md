@@ -8,7 +8,14 @@ Gimmer is an algorithmic trading platform for Bitcoin and other cryptocurrencies
 - Binance
 - Poloniex
 - Bitfinex
-- 
+- Huobi
+- Mercado Bitcoin
+- Kraken
+- Foxbit
+- HitBTC
+- CoinEx
+- Braziliex
+- BTCAlpha
 
 ## FEATURES
 
