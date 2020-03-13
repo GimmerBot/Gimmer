@@ -50,7 +50,7 @@ https://github.com/GimmerBot/CodeEditor-Samples
 # Strategy List
 ![Webserver UI](images/2020-03-12%20(8).png "Strategy List")
 
-# Infinte Backtests
+# Infinite Backtests
 ![Webserver UI](images/2020-03-12%20(16).png "Infinte Backtests")
 
 # Strategy Builder
