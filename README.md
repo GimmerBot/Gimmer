@@ -15,8 +15,8 @@ https://github.com/GimmerBot/CodeEditor-Samples
 
 ## FEATURES
 
-- Exchange Trader Bot
-- Margin Trader Bot
+- Spot Trading
+- Margin Trading
 - Binance Futures 125x
 - Scalper
 - Code Editor
