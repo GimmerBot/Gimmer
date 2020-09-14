@@ -1,9 +1,9 @@
 {
   "win32-x64-prod": {
-    "readme": "gimmer.2.2.486",
-    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v2.2.486",
-    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v2.2.486/gimmer-2.2.486.Setup.exe",
-    "version": "2.2.486"
+    "readme": "gimmer.2.2.538",
+    "update": "https://github.com/GimmerBot/Gimmer/releases/download/v2.2.538",
+    "install": "https://github.com/GimmerBot/Gimmer/releases/download/v2.2.538/gimmer-2.2.538.Setup.exe",
+    "version": "2.2.538"
   },
   "darwin-x64-prod": {
     "readme": "gimmer.2.0.218",
